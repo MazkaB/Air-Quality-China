@@ -1,7 +1,3 @@
-Berikut contoh **README.md** yang bisa Anda gunakan untuk menjelaskan proyek **Air Pollution Dashboard** secara ringkas dan menarik. Silakan sesuaikan konten (misalnya nama file, struktur folder, daftar dependensi, dsb.) dengan kebutuhan Anda.
-
----
-
 # Air Pollution Interactive Dashboard
 
 Proyek ini merupakan **dashboard interaktif** untuk menganalisis data polusi udara. Data yang digunakan terdiri dari beberapa file CSV berisi informasi konsentrasi polutan (PM2.5, PM10, SO2, NO2, CO, O3) serta variabel cuaca (TEMP, WSPM, dll.). Dashboard dibangun menggunakan **[Streamlit](https://streamlit.io/)**, sehingga mudah diakses dan dipahami oleh berbagai kalangan.
