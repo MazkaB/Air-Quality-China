@@ -139,6 +139,6 @@ streamlit-folium==0.9.2
 
 - **Laporkan Masalah**: Jika menemukan *bug*, silakan buka [Issues](#).  
 - **Kontribusi**: Ajukan pull request untuk perbaikan atau penambahan fitur.  
-- **Email**: hubungi `namaanda@example.com` jika ada pertanyaan lebih lanjut.
+- **Email**: hubungi `hmazka19@gmail.com` jika ada pertanyaan lebih lanjut.
 
 > Terima kasih sudah menggunakan **Air Pollution Interactive Dashboard**! Semoga bermanfaat dan memudahkan Anda dalam menganalisis data polusi udara. Jangan ragu melakukan kontribusi, saran, atau perbaikan!
