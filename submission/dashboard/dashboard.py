@@ -1,26 +1,4 @@
 # dashboard.py
-import subprocess
-import sys
-
-def install_packages():
-    packages = [
-        'folium',
-        'geopandas',
-        'matplotlib',
-        'missingno',
-        'numpy',
-        'pandas',
-        'plotly',
-        'scipy',
-        'seaborn',
-        'statsmodels',
-        'streamlit',
-        'streamlit-folium'
-    ]
-    for package in packages:
-        subprocess.check_call([sys.executable, '-m', 'pip', 'install', '-q', package])
-
-install_packages()
 
 import os
 import pandas as pd
