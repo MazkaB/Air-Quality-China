@@ -2,6 +2,7 @@ missingno
 folium
 geopandas
 matplotlib
+matplotlib.pyplot
 missingno
 numpy
 pandas
