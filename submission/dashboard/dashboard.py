@@ -161,8 +161,8 @@ def main():
     # Input path data folder (sesuaikan dengan struktur di Streamlit Cloud)
     data_folder = st.sidebar.text_input(
         "Folder Data CSV",
-        value="data",
-        help="Masukkan path folder tempat file-file CSV disimpan."
+        value="submission/dashboard/data",
+        help="Path sudah benar, anda tinggal klik 'Load Data'."
     )
     
     # Tombol untuk load data
