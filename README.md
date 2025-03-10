@@ -124,17 +124,6 @@ streamlit-folium==0.9.2
 
 ---
 
-## Deploy ke Streamlit Cloud
-
-1. **Fork/Push Repositori ke GitHub** – Pastikan `dashboard.py`, `requirements.txt`, dan folder `data` sudah ada dalam repo.  
-2. **Buka [Streamlit Cloud](https://streamlit.io/cloud)** – Buat aplikasi baru.  
-3. **Pilih Repositori & Branch** yang berisi proyek ini.  
-4. **Atur File Utama**: `dashboard.py`.  
-5. **Tambahkan Secrets atau Variabel Lingkungan** (jika diperlukan).  
-6. Tekan **Deploy**. Streamlit Cloud akan menginstal dependencies dari `requirements.txt` dan menjalankan dashboard.  
-
----
-
 ## Kontak dan Kontribusi
 
 - **Laporkan Masalah**: Jika menemukan *bug*, silakan buka [Issues](#).  
