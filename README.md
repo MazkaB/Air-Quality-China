@@ -9,8 +9,7 @@ Proyek ini merupakan **dashboard interaktif** untuk menganalisis data polusi uda
 3. [Persyaratan (Requirements)](#persyaratan-requirements)  
 4. [Cara Menjalankan di Lokal](#cara-menjalankan-di-lokal)  
 5. [Panduan Penggunaan](#panduan-penggunaan)  
-6. [Deploy ke Streamlit Cloud](#deploy-ke-streamlit-cloud)  
-7. [Kontak dan Kontribusi](#kontak-dan-kontribusi)
+6. [Kontak dan Kontribusi](#kontak-dan-kontribusi)
 
 ---
 
