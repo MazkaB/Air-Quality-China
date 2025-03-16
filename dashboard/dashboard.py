@@ -35,7 +35,7 @@ def main():
     """)
     
     if "df" not in st.session_state:
-        file_path = "main_data.csv"  # Use raw string for Windows path
+        file_path = "dashboard/main_data.csv"  # Use raw string for Windows path
         with st.spinner("Memuat data..."):
             df = load_data(file_path)
         if df.empty:
